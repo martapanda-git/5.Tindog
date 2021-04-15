@@ -10,7 +10,6 @@ body {
 
 #title {
   background-color: #ff4c68;
-  height: 90vh;
   color: white;
 }
 
@@ -21,7 +20,7 @@ body {
 h1 {
   font-family: 'Montserrat', sans-serif;
   font-weight: 900;
-  font-size: 3rem;
+  font-size: 3.5rem;
   line-height: 1.5;
 }
 
@@ -47,9 +46,8 @@ h1 {
 }
 
 .heroimg {
-  height: 80%;
-  transform: rotate(30deg);
-  margin-top: 5%;
+  width: 60%;
+  transform: rotate(25deg);
 }
 
 .downloadbtn {
