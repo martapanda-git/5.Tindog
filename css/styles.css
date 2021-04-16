@@ -131,3 +131,15 @@ p {
 .pricing-column {
   padding: 3% 2%;
 }
+
+/* Media Query */
+@media (max-width: 1028px) {
+  .heroimg {
+    transform: rotate(0);
+    position: static;
+  }
+
+  #title {
+    text-align: center;
+  }
+}
