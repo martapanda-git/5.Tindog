@@ -8,15 +8,7 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 
-#title {
-  background-color: #ff4c68;
-  color: white;
-}
-
-.container-fluid {
-  padding: 3% 15% 7% 15%;
-}
-
+/* Text */
 h1 {
   font-family: 'Montserrat', sans-serif;
   font-weight: 900;
@@ -38,6 +30,16 @@ h3 {
 
 p {
   color: #8f8f8f;
+}
+
+/* Title Section */
+#title {
+  background-color: #ff4c68;
+  color: white;
+}
+
+.container-fluid {
+  padding: 3% 15% 7% 15%;
 }
 
 .navbar {
@@ -72,6 +74,7 @@ p {
   margin: 5% 3% 5% 0;
 }
 
+/* Features Section */
 #features {
   padding: 7% 15%;
   background-color: white;
@@ -92,6 +95,7 @@ p {
   color: #ff4c68;
 }
 
+/* Testimonials Section */
 #testimonials {
   text-align: center;
   background-color: #ef8172;
@@ -119,6 +123,7 @@ p {
   padding: 7% 15%;
 }
 
+/* Pricing Section */
 #pricing {
   padding: 100px;
   text-align: center;
@@ -132,6 +137,7 @@ p {
   padding: 3% 2%;
 }
 
+/* Call to Action Section */
 #cta {
   background-color: #ff4c68;
   color: white;
@@ -139,6 +145,7 @@ p {
   padding: 7% 15%;
 }
 
+/* Footer Section */
 #footer {
   background-color: white;
   text-align: center;
