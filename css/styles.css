@@ -132,6 +132,24 @@ p {
   padding: 3% 2%;
 }
 
+#cta {
+  background-color: #ff4c68;
+  color: white;
+  text-align: center;
+  padding: 7% 15%;
+}
+
+#footer {
+  background-color: white;
+  text-align: center;
+  padding: 7% 15%;
+}
+
+#footer i {
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+}
+
 /* Media Query */
 @media (max-width: 1028px) {
   .heroimg {
