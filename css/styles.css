@@ -117,6 +117,14 @@ p {
 }
 
 #pricing {
-  padding: 7% 15%;
+  padding: 100px;
   text-align: center;
+}
+
+.plantxt {
+  padding: 0 15% 3% 15%;
+}
+
+.pricing-column {
+  padding: 3% 2%;
 }
